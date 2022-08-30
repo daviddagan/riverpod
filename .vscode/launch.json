@@ -1,0 +1,316 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "benchmarks",
+            "cwd": "benchmarks",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "benchmarks (profile mode)",
+            "cwd": "benchmarks",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "benchmarks (release mode)",
+            "cwd": "benchmarks",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "website",
+            "cwd": "website",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "website (profile mode)",
+            "cwd": "website",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "website (release mode)",
+            "cwd": "website",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "counter",
+            "cwd": "examples\\counter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "counter (profile mode)",
+            "cwd": "examples\\counter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "counter (release mode)",
+            "cwd": "examples\\counter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "marvel",
+            "cwd": "examples\\marvel",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "marvel (profile mode)",
+            "cwd": "examples\\marvel",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "marvel (release mode)",
+            "cwd": "examples\\marvel",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "pub",
+            "cwd": "examples\\pub",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pub (profile mode)",
+            "cwd": "examples\\pub",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "pub (release mode)",
+            "cwd": "examples\\pub",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "random_number",
+            "cwd": "examples\\random_number",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "random_number (profile mode)",
+            "cwd": "examples\\random_number",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "random_number (release mode)",
+            "cwd": "examples\\random_number",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "stackoverflow",
+            "cwd": "examples\\stackoverflow",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "stackoverflow (profile mode)",
+            "cwd": "examples\\stackoverflow",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "stackoverflow (release mode)",
+            "cwd": "examples\\stackoverflow",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "todos",
+            "cwd": "examples\\todos",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "todos (profile mode)",
+            "cwd": "examples\\todos",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "todos (release mode)",
+            "cwd": "examples\\todos",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_riverpod",
+            "cwd": "packages\\flutter_riverpod",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_riverpod (profile mode)",
+            "cwd": "packages\\flutter_riverpod",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_riverpod (release mode)",
+            "cwd": "packages\\flutter_riverpod",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "hooks_riverpod",
+            "cwd": "packages\\hooks_riverpod",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "hooks_riverpod (profile mode)",
+            "cwd": "packages\\hooks_riverpod",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "hooks_riverpod (release mode)",
+            "cwd": "packages\\hooks_riverpod",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "riverpod",
+            "cwd": "packages\\riverpod",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "riverpod_annotation",
+            "cwd": "packages\\riverpod_annotation",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "riverpod_cli",
+            "cwd": "packages\\riverpod_cli",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "riverpod_generator",
+            "cwd": "packages\\riverpod_generator",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "riverpod_graph",
+            "cwd": "packages\\riverpod_graph",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "riverpod_lint",
+            "cwd": "packages\\riverpod_lint",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "riverpod_lint_flutter_test",
+            "cwd": "packages\\riverpod_lint_flutter_test",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "riverpod_lint_flutter_test (profile mode)",
+            "cwd": "packages\\riverpod_lint_flutter_test",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "riverpod_lint_flutter_test (release mode)",
+            "cwd": "packages\\riverpod_lint_flutter_test",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "generate_providers",
+            "cwd": "tools\\generate_providers",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "example",
+            "cwd": "packages\\flutter_riverpod\\example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "example (profile mode)",
+            "cwd": "packages\\flutter_riverpod\\example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "example (release mode)",
+            "cwd": "packages\\flutter_riverpod\\example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "example",
+            "cwd": "packages\\hooks_riverpod\\example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "example (profile mode)",
+            "cwd": "packages\\hooks_riverpod\\example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "example (release mode)",
+            "cwd": "packages\\hooks_riverpod\\example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "example",
+            "cwd": "packages\\riverpod\\example",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
